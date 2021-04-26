@@ -14,10 +14,10 @@ I ❤️ Front-end & Back-end Development
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Java](https://img.shields.io/badge/-Java-FC2019?style=flat-square&logo=java)
-![Java](https://img.shields.io/badge/-Spring-111111?style=flat-square&logo=spring)
-![Java](https://img.shields.io/badge/-Eclipse-2c2256?style=flat-square&logo=eclipse)
-![Java](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&labelColor=ffffff)
-![Java](https://img.shields.io/badge/-MongoDB-222222?style=flat-square&logo=Mongodb)
+![Spring](https://img.shields.io/badge/-Spring-121212?style=flat-square&logo=spring)
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse-2c2256?style=flat-square&logo=eclipse)
+![MySQL](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&labelColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat-square&logo=Mongodb)
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
