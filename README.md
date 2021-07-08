@@ -26,4 +26,4 @@ I ❤️ Front-end & Back-end Development
 
 
 
-![snake gif](https://github.com/carlosbecerradev/carlosbecerradev/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/carlosbecerradev/carlosbecerradev/blob/output/github-contribution-grid-snake.svg)
