@@ -1,10 +1,10 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Carlos Becerra
+# Hello, I'm Carlos Becerra
 
 I ❤️ Front-end & Back-end Development
 
 :computer: I am studying Information Systems Development Technician, based in Peru
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -20,10 +20,13 @@ I ❤️ Front-end & Back-end Development
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat-square&logo=Mongodb)
 
 
-## 𝗦𝘁𝗮𝘁𝘀
+## Stats
 
 ![carlosbecerradev's github stats](https://github-readme-stats.vercel.app/api?username=carlosbecerradev&show_icons=true&theme=dracula)
 
 
+## Generates a snake game from a github user contributions graph
+
+[Generate your snake ](https://github.com/Platane/snk)
 
 ![snake gif](https://github.com/carlosbecerradev/carlosbecerradev/blob/output/github-contribution-grid-snake.svg)
