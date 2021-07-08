@@ -23,3 +23,7 @@ I ❤️ Front-end & Back-end Development
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![carlosbecerradev's github stats](https://github-readme-stats.vercel.app/api?username=carlosbecerradev&show_icons=true&theme=dracula)
+
+
+
+![snake gif](https://github.com/carlosbecerradev/carlosbecerradev/blob/output/github-contribution-grid-snake.gif)
