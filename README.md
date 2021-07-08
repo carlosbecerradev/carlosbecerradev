@@ -22,10 +22,11 @@ I ❤️ Front-end & Back-end Development
 
 ## Stats
 
-![carlosbecerradev's github stats](https://github-readme-stats.vercel.app/api?username=carlosbecerradev&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api?username=carlosbecerradev&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&layout=compact" alt="GitHub Stats for CarlosBecerraDev" width="700"/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=carlosbecerradev&theme=chartreuse-dark)](https://git.io/streak-stats" width="700">
 
-## Generates a snake game from a github user contributions graph
+### Generates a snake game from a github user contributions graph
 
 [Generate your snake ](https://github.com/Platane/snk)
 
