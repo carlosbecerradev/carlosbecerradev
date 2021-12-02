@@ -17,7 +17,6 @@ I ❤️ Front-end & Back-end Development
 ![Spring](https://img.shields.io/badge/-Spring-121212?style=flat-square&logo=spring)
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-2c2256?style=flat-square&logo=eclipse)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat-square&logo=Mongodb)
 
 
 ## Stats
